@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "esp_wifi.h": "c",
+        "esp_mac.h": "c",
+        "err.h": "c",
+        "esp_event.h": "c",
+        "esp_netif.h": "c",
+        "sockets.h": "c",
+        "netdb.h": "c",
+        "string.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
